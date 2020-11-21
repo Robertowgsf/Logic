@@ -2,10 +2,6 @@
 ## Objetivo
 O objetivo desse repositório é prover vários exercícios para treinar e desenvolver uma das habilidades mais importantes de um programador, a lógica de programação.
 ## Lista de Exercícios
-Lista de Exercícios
-
-Comandos de entrada e saída
-
 1. Escreva um programa que leia três números inteiros e calcule a sua média aritmética.
 2. Escreva um programa que leia três números e seus respectivos pesos e calcule a sua
 média ponderada.
