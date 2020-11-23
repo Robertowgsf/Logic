@@ -1075,6 +1075,3 @@ Ponteiros
 276. Escreva um programa que leia vários números inteiros até ler o número 0, que não
 deverá ser processado. Após finalizar a leitura, o programa deve imprimir todos os
 números lidos na ordem inversa a que eles foram digitados pelo usuário.
-277. Escreva um programa que leia vários números inteiros até ler o número 0, que não
-deverá ser processado. Após finalizar a leitura, o programa deve imprimir todos os
-números lidos na ordem inversa a que eles foram digitados pelo usuário. 
